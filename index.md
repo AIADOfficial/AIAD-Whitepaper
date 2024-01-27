@@ -114,7 +114,7 @@ AIAD's approach streamlines the entire advertising process, from ad placement to
 
 # 2. Core Components
 
-![](Banner1.png)
+![](banner1.png)
 
 
 ## 2.1. Solana-based Ad Exchange
