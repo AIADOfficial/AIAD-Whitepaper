@@ -1,23 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="custom-style.css">
-</head>
-
-  <body>
-
 ![](img1.png)
 
-<h1>AIAD: Pioneering the Future of Digital Advertising </h1>
+AIAD: Pioneering the Future of Digital Advertising
 <br />
 
-<h2> **AI-Powered Innovation on the Solana Blockchain** </h2>
+**AI-Powered Innovation on the Solana Blockchain**
 
 AIAD is introducing a groundbreaking shift in the digital advertising realm with its AI-driven platform, built on the robust Solana blockchain. This pioneering approach is not just a technological advancement; it's a redefinition of advertising norms.
 
 Revolutionizing Industry Standards
 
-<h3>Enhanced Transparency</h3>
+Enhanced Transparency
 
 By utilizing blockchain, AIAD brings unparalleled transparency to digital advertising, allowing for a more honest and effective market environment.
 
@@ -497,5 +489,3 @@ A dedicated legal advisory team ensures that AIAD's operations remain within leg
 *The impact of this evolution extends beyond mere technological advancement; it heralds a shift towards a more equitable, effective, and trust-based digital advertising world. As AIAD continues to innovate and evolve, it is poised to not only adapt to the future of advertising but to actively shape it.*
 
 
-</body>
-</html>
