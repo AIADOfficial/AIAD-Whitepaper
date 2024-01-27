@@ -1,5 +1,5 @@
 ﻿
-![](Aspose.Words.955c84a7-147b-4f49-9112-c777e6c71fd0.001.png)
+![](img1.png)
 
 AIAD: Pioneering the Future of Digital Advertising
 
