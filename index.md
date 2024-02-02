@@ -98,7 +98,7 @@ The choice of the Solana blockchain is pivotal to AIAD's approach. Known for its
 Blockchain technology inherently offers transparency and security. With ad transactions and engagements recorded on the Solana blockchain, AIAD ensures a transparent, verifiable, and secure advertising ecosystem.
 
 
-## **Resulting Benefits**
+# **Resulting Benefits**
 
 ## **Greater ROI for Advertisers**
 The combination of AI-driven targeting and blockchain efficiency leads to a higher Return on Investment (ROI) for advertisers. With more effective ad placements and reduced instances of fraud, advertisers can expect better outcomes for their spending.
